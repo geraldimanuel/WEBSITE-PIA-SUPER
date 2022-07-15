@@ -1,18 +1,14 @@
 {
   "files": {
-    "main.js": "/WEBSITE-PIA-SUPER/static/js/main.ff9b68d9.js",
+    "main.js": "/WEBSITE-PIA-SUPER/static/js/main.0eb9a459.js",
     "static/media/kacang_hijau_2.jpeg": "/WEBSITE-PIA-SUPER/static/media/kacang_hijau_2.974123d4797e272a3751.jpeg",
     "static/media/coklat_2.jpeg": "/WEBSITE-PIA-SUPER/static/media/coklat_2.6879eebdf5baaf01f15f.jpeg",
-    "static/media/keju_2.jpeg": "/WEBSITE-PIA-SUPER/static/media/keju_2.9068f99487b982131205.jpeg",
-    "static/media/kacang_hijau.jpeg": "/WEBSITE-PIA-SUPER/static/media/kacang_hijau.ff220603cfcfc1d52d33.jpeg",
-    "static/media/coklat.jpeg": "/WEBSITE-PIA-SUPER/static/media/coklat.1ebf4f7b51b71fc62e62.jpeg",
     "static/media/keju_1.jpeg": "/WEBSITE-PIA-SUPER/static/media/keju_1.7324b667636e707d769e.jpeg",
     "static/media/logo.png": "/WEBSITE-PIA-SUPER/static/media/logo.a205a68711d223685447.png",
-    "static/media/bawah_menu.svg": "/WEBSITE-PIA-SUPER/static/media/bawah_menu.b2ecc72ebe1a480fc1885f848cf7fc93.svg",
     "index.html": "/WEBSITE-PIA-SUPER/index.html",
-    "main.ff9b68d9.js.map": "/WEBSITE-PIA-SUPER/static/js/main.ff9b68d9.js.map"
+    "main.0eb9a459.js.map": "/WEBSITE-PIA-SUPER/static/js/main.0eb9a459.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff9b68d9.js"
+    "static/js/main.0eb9a459.js"
   ]
 }
