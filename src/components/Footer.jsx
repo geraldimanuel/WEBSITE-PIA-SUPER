@@ -38,22 +38,22 @@ export default function Footer() {
 				</Flex>
 			</Flex>
 			<SimpleGrid className="navbar-mini" columns={3} spacing={3}>
-				<Text fontSize="sm" textAlign={{ base: "center", md: "none" }}>
+				<Text fontSize="sm" textAlign={{ base: "center", md: "left" }}>
 					Tentang
 				</Text>
-				<Text fontSize="sm" textAlign={{ base: "center", md: "none" }}>
+				<Text fontSize="sm" textAlign={{ base: "center", md: "left" }}>
 					Produk
 				</Text>
-				<Text fontSize="sm" textAlign={{ base: "center", md: "none" }}>
+				<Text fontSize="sm" textAlign={{ base: "center", md: "left" }}>
 					Artikel
 				</Text>
-				<Text fontSize="sm" textAlign={{ base: "center", md: "none" }}>
+				<Text fontSize="sm" textAlign={{ base: "center", md: "left" }}>
 					Toko
 				</Text>
-				<Text fontSize="sm" textAlign={{ base: "center", md: "none" }}>
+				<Text fontSize="sm" textAlign={{ base: "center", md: "left" }}>
 					Promo
 				</Text>
-				<Text fontSize="sm" textAlign={{ base: "center", md: "none" }}>
+				<Text fontSize="sm" textAlign={{ base: "center", md: "left" }}>
 					FAQ
 				</Text>
 			</SimpleGrid>
