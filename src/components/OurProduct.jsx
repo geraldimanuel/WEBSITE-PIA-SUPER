@@ -1,12 +1,9 @@
-import { Flex, Heading, Image, Text } from "@chakra-ui/react";
+import { Flex, Image, Text } from "@chakra-ui/react";
 import React, { useState } from "react";
 
-import kacang_hijau from "../assets/kacang_hijau.jpeg";
 import kacang_hijau_2 from "../assets/kacang_hijau_2.jpeg";
-import coklat from "../assets/coklat.jpeg";
 import coklat_2 from "../assets/coklat_2.jpeg";
-import keju from "../assets/keju_1.jpeg";
-import keju_2 from "../assets/keju_2.jpeg";
+import keju_1 from "../assets/keju_1.jpeg";
 
 export default function OurProduct() {
 	const [desc, setDesc] = useState(
@@ -24,7 +21,7 @@ export default function OurProduct() {
 	function kejuHandler() {
 		setDesc("Rasa keju enak yang manis siap menemani harimu");
 		setVarian("Original Keju");
-		setPicture(keju);
+		setPicture(keju_1);
 	}
 
 	function kacangHandler() {

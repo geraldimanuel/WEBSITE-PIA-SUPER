@@ -1,5 +1,5 @@
-import { Image, Flex, Heading, Text, SimpleGrid } from "@chakra-ui/react";
-import logo from "../assets/logo.png";
+import { Flex, Text, SimpleGrid } from "@chakra-ui/react";
+
 import { ImLocation } from "react-icons/im";
 import { MdAddIcCall } from "react-icons/md";
 import { HiMailOpen } from "react-icons/hi";
@@ -17,8 +17,6 @@ export default function Footer() {
 			flexDirection={{ md: "row", base: "column" }}
 			gap={{ md: "none", base: "35px" }}
 		>
-			{/* <Image src={logo} boxSize="200px" /> */}
-
 			<Flex className="info-text" flexDirection="column" gap={4}>
 				<Flex className="location" alignItems="center" gap={3}>
 					<ImLocation size="25px" />
