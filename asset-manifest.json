@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.b564f851.js",
+    "main.js": "/static/js/main.1778f365.js",
     "static/media/kacang_hijau_2.jpeg": "/static/media/kacang_hijau_2.974123d4797e272a3751.jpeg",
     "static/media/coklat_2.jpeg": "/static/media/coklat_2.6879eebdf5baaf01f15f.jpeg",
     "static/media/keju_1.jpeg": "/static/media/keju_1.7324b667636e707d769e.jpeg",
     "static/media/logo.png": "/static/media/logo.a205a68711d223685447.png",
     "index.html": "/index.html",
-    "main.b564f851.js.map": "/static/js/main.b564f851.js.map"
+    "main.1778f365.js.map": "/static/js/main.1778f365.js.map"
   },
   "entrypoints": [
-    "static/js/main.b564f851.js"
+    "static/js/main.1778f365.js"
   ]
 }
